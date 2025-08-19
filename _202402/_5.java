@@ -13,7 +13,7 @@
 
 import java.lang.Math;
 
-public class Main {
+public class _5 {
     public static void main(String[] args) {
         int s, t, cnt = 0;
 

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_5",
+            "request": "launch",
+            "mainClass": "_5",
+            "projectName": "2025-Craftsman-Information-Processing_283d8fc4"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "_202403.Main",
