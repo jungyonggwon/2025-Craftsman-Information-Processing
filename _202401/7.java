@@ -52,6 +52,7 @@ public class Main {
             // i=1 → list[1].sum(1) → 1 + (list[1].y=2) = 3  → res=1+3=4
         }
 
+        
         System.out.print(res); // 최종 출력: 4
     }
 }
